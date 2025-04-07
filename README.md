@@ -32,7 +32,7 @@
     3. MongoDB (or a MongoDB Atlas cluster)
     4. Git
 
-=== > Api endpoints to check in postMan :
+## Api endpoints to check in postMan :
 
      1. /register ('To check whether the user register or not!')
      2. /login ('To check whether the user logined ot not!')
